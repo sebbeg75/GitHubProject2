@@ -10,6 +10,7 @@ namespace GitHubProject2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Testing new branch");
         }
     }
 }
